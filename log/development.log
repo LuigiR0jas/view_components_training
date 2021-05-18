@@ -1,0 +1,226 @@
+Started GET "/" for ::1 at 2021-05-18 11:53:58 -0500
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.3ms | Allocations: 448)
+Completed 200 OK in 20ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 3661)
+
+
+Started GET "/" for ::1 at 2021-05-18 11:56:23 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 35.2ms | Allocations: 220)
+Completed 200 OK in 39ms (Views: 36.5ms | ActiveRecord: 0.0ms | Allocations: 835)
+
+
+Started GET "/" for ::1 at 2021-05-18 11:57:21 -0500
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.9ms | Allocations: 334)
+Completed 200 OK in 16ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 2454)
+
+
+Started GET "/" for ::1 at 2021-05-18 11:57:21 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.1ms | Allocations: 216)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 830)
+
+
+Started GET "/" for ::1 at 2021-05-18 11:57:22 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 342)
+
+
+Started GET "/" for ::1 at 2021-05-18 11:57:22 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 343)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:08:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.8ms | Allocations: 44)
+Completed 200 OK in 4ms (Views: 2.4ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:08:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 0.9ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:08:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:08:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:08 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.3ms | Allocations: 337)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:28 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.4ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:33 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 341)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 44)
+Completed 200 OK in 1ms (Views: 0.8ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.0ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:34 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 19.5ms | Allocations: 44)
+Completed 200 OK in 21ms (Views: 20.6ms | Allocations: 336)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:44 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.2ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:45 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.4ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:45 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:45 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 44)
+Completed 200 OK in 1ms (Views: 0.9ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:45 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 44)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:50 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.0ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:51 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.0ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:51 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 44)
+Completed 200 OK in 1ms (Views: 0.9ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:09:51 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 44)
+Completed 200 OK in 2ms (Views: 1.2ms | Allocations: 335)
+
+
+Started GET "/" for ::1 at 2021-05-18 12:14:36 -0500
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:14:36 -0500
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:15:30 -0500
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:15:30 -0500
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:15:30 -0500
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:15:31 -0500
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:15:37 -0500
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:17:06 -0500
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (uninitialized constant HomesController):
+  
+Started GET "/" for ::1 at 2021-05-18 12:18:49 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/luigi/.rvm/gems/ruby-2.7.0/gems/railties-6.1.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.7ms | Allocations: 220)
+Completed 200 OK in 8ms (Views: 5.3ms | Allocations: 1707)
+
+
