@@ -1,2 +1,4 @@
-h1
-  | Homepage
+main class="min-h-full flex flex-col justify-center"
+  section
+    div class="container mx-auto px-96"
+      = render partial: "shared/recipe_card", locals: {recipes: @recipes}
