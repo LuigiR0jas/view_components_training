@@ -1,2 +1,0 @@
-run = "run="bin/rails server -b 0.0.0.0"
-language = "ruby"
