@@ -1,3 +1,5 @@
 div class="bg-white rounded-tl-xl sm:rounded-t-xl lg:rounded-xl shadow-2xl lg:-mr-8 divide-y divide-gray-100 p-4"
+  h1.text-xxl Header test
+  p.text-xl Description
   - local_assigns[:recipes].each do |recipe|
     = render partial: "components/recipe", locals: {recipe: recipe}

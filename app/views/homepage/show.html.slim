@@ -1,4 +1,16 @@
 main class="min-h-full flex flex-col justify-center"
   section
-    div class="container mx-auto px-96"
-      = render partial: "shared/recipe_card", locals: {recipes: @recipes}
+    / - 100.times do |c|
+    /   div class="container mx-auto px-96"
+    /     = render partial: "shared/recipe_card", locals: {recipes: @recipes}
+
+    - 1.times do |c|
+      div class="container mx-auto px-96"
+        = render CardComponent.new do |card|
+          - card.header
+            h1.text-xxl Header test
+          - card.description
+            p.text-xl Description
+
+          - @recipes.each do |recipe|
+            = render Recipe::Component.new(recipe: recipe)
